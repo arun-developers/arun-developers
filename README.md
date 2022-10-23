@@ -20,11 +20,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-developers" alt="arun-developers" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
-
 - 🌱 I’m currently learning **Redux,Typescript**
 
-- 👨‍💻 All of my projects are available at [arun-developers.github.io](https://arun-developers.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://arun-developers.github.io/)
 
 - 💬 Ask me about **react chakra & react-router-dom**
 
