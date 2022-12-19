@@ -16,7 +16,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-developers" alt="arun-developers" /></a> </p>
 
-- 🌱 My Specialization**React,Redux,Nodejs,ExpressJs,MongoDB,DSA(Data structure and Algoritham) etc**
+- 🌱 My Specialization **React,Redux,Nodejs,ExpressJs,MongoDB,DSA(Data structure and Algoritham) etc**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://arun-developers.github.io/)
 
@@ -41,6 +41,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <div align="center">
 <hr width="50%" />
-<a href="https://github.com/arun-developers/github-readme-activity-graph"><img alt="Md Sayeed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arun-developers&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/arun-developers/github-readme-activity-graph"><img alt="Arun Singh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arun-developers&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>
 <hr/>
