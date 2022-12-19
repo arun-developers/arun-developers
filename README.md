@@ -16,15 +16,13 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-developers" alt="arun-developers" /></a> </p>
 
-- 🌱 I’m currently learning **Redux,Typescript**
+- 🌱 My Specialization**React,Redux,Nodejs,ExpressJs,MongoDB,DSA(Data structure and Algoritham) etc**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://arun-developers.github.io/)
 
 - 💬 Ask me about **react chakra & react-router-dom**
 
 - 📫 How to reach me **aruns3435@gmail.com**
-
-- 📄 Know about my experiences [resume.com](resume.com)
 
 - ⚡ Fun fact **I think I am funny**
 
